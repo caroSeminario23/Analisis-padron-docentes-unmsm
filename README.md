@@ -5,11 +5,11 @@ Este proyecto consiste en la extracción, limpieza, normalización y balanceo de
 modalidad de trabajo.
 
 ## Estado del proyecto
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-green)
 
 ## Requisitos del entorno de desarrollo
-- Entorno: Jupyter
-- Librerías: pandas, imblearn, sklearn
+- **Entorno:** Jupyter
+- **Librerías:** pandas, imblearn, sklearn
 
 ## Guía de instalación
 1. Agregar la extensión de "Jupyter" a su IDE
@@ -25,3 +25,6 @@ pip install -r requirements.txt
 - Python
 - Excel
 - Power BI
+
+## Presentación del dashboard
+![](Dashboard_docentes.jpg)
