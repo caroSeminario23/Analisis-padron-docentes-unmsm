@@ -46,7 +46,7 @@ En este repositorio encontrará los archivos relacionados al proyecto, mas el de
 4. Modificar la ruta de origen de las fuentes del dashboard:
     - **Paso 1**  
     <img src="images/Origen_1.png" alt="Paso 1" width="400">
-    - **Paso 2**: Modificar la primera parte de la ubicación por la ubicación del repositorio en su sistema de archivos local. Mantener la segunda sin modificación alguna.  
+    - **Paso 2**: Modificar la primera parte de la ubicación por la ubicación del repositorio en su sistema de archivos local. Mantener la segunda sin modificación alguna. Si es necesario, revise el nombre de la carpeta generada tras la clonación y verifique que sea igual a la mencionada en la parte final de la primera parte de la ruta.  
     <img src="images/Origen_2.png" alt="Paso 2" width="400">
     - **Paso 3**  
     <img src="images/Origen_3.png" alt="Paso 3" width="400">
